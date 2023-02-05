@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Deal Byte Vendor</string>
+    <string name="vendor_app">Vendor App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sp_select_city_are">
+        <item>Select Area/City</item>
+        <item>Banashankari - Bangalore</item>
+        <item>Koramangala - Bangalore</item>
+        <item>JP Nagar - Bangalore</item>
+        <item>RT Nagar - Bangalore</item>
+    </string-array>
+
+</resources>
